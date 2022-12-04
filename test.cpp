@@ -25,8 +25,13 @@ int main()
     ll n,m,t,i,j,k,x,y,z,a,b,c,cnt=0,ans=0;
     bool flag=false;
     string s,s1,s2,s3;
-    cout<<"gd";
-     
+
+    cin>>t;
+
+    while(t--) {
+
+
+    }
 
   //cout<<endl; main();
 }
